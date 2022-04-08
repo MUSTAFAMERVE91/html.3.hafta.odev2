@@ -1,0 +1,49 @@
+.logoek{
+    text-align:center;
+    background-color:white;
+}
+div{
+    background-color:#f2f2f2;
+    text-align: center;
+}
+form .sear{
+    margin-top: 1px;
+}
+.searches{
+    margin-top: 4px;
+    overflow:hidden;
+}
+div .special {
+    background-color:#9DFFF2;
+    float:left;
+	width:40%;
+	height:150px;
+    text-align: center;
+    margin-right: 4px;
+}
+div .special p{
+    padding-top: 10px;
+}
+div .special a{
+   display: block;
+   
+}
+div .info{
+    background-color:#7FEBD4 ;
+    float:left;
+    height:150px;
+    width:17%;
+    margin-right: 4px;
+}
+ div .info a{
+    disblay:block;
+    padding-top: 10px;
+}
+.subsc{
+     background-color:#61CDB6;
+    float:left;
+	width:42%;
+	height:150px;
+    text-align: center;
+}
+}
